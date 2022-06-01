@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajendra-a (Rajendra Reddy)
 - 👀 I’m interested in Web Developement and Artificial Intelligence
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate React.js Developement
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate ML, AI
 - 📫 You can reach me at rajendrareddy.akkala@gmail.com
 
